@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# Configuration file for this script
+repo_clone_config.json
+
 # Distribution / packaging
 .Python
 build/
